@@ -1,0 +1,23 @@
+{
+  "name": "my_natours",
+  "version": "1.0.0",
+  "description": "> Description the project.",
+  "main": "index.js",
+  "scripts": {
+  "compile:sass" : "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efiamotu-1/Tourist-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efiamotu-1/Tourist-site/issues"
+  },
+  "homepage": "https://github.com/Efiamotu-1/Tourist-site#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
